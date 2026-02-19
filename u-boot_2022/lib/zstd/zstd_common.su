@@ -1,0 +1,6 @@
+zstd_common.c:49:7:ZSTD_stackAlloc	0	static
+zstd_common.c:54:6:ZSTD_stackFree	0	static
+zstd_common.c:26:16:ZSTD_initStack	0	static
+zstd_common.c:42:7:ZSTD_stackAllocAll	0	static
+zstd_common.c:60:7:ZSTD_malloc	16	static
+zstd_common.c:62:6:ZSTD_free	16	static

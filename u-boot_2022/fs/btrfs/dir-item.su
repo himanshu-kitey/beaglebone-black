@@ -1,0 +1,4 @@
+dir-item.c:11:12:verify_dir_item.isra.0	8	static
+dir-item.c:40:24:btrfs_match_dir_item_name	32	static
+dir-item.c:79:24:btrfs_lookup_dir_item	80	static
+dir-item.c:117:5:btrfs_iter_dir	152	static

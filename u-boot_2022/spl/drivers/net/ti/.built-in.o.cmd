@@ -1,0 +1,1 @@
+cmd_spl/drivers/net/ti/built-in.o :=  rm -f spl/drivers/net/ti/built-in.o; arm-linux-gnueabihf-ar cDPrsT spl/drivers/net/ti/built-in.o spl/drivers/net/ti/cpsw.o spl/drivers/net/ti/cpsw-common.o spl/drivers/net/ti/cpsw_mdio.o

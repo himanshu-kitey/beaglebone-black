@@ -1,0 +1,9 @@
+blake2b.c:184:13:blake2b_compress	552	static
+blake2b.c:228:5:blake2b_update.part.1	48	static
+blake2b.c:88:5:blake2b_init_param	24	static
+blake2b.c:105:5:blake2b_init	80	static
+blake2b.c:127:5:blake2b_init_key	216	static
+blake2b.c:228:5:blake2b_update	8	static
+blake2b.c:255:5:blake2b_final	96	static
+blake2b.c:280:5:blake2b	264	static
+blake2b.c:309:5:blake2	0	static

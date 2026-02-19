@@ -1,0 +1,8 @@
+btrfs.c:18:12:show_dir	552	static
+btrfs.c:119:5:btrfs_probe	16	static
+btrfs.c:134:5:btrfs_ls	56	static
+btrfs.c:162:5:btrfs_exists	48	static
+btrfs.c:182:5:btrfs_size	144	static
+btrfs.c:226:5:btrfs_read	88	static
+btrfs.c:271:6:btrfs_close	8	static
+btrfs.c:279:5:btrfs_uuid	8	static

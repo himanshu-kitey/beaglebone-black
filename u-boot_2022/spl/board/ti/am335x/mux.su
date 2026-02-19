@@ -1,0 +1,9 @@
+mux.c:283:6:enable_uart0_pin_mux	0	static
+mux.c:288:6:enable_uart1_pin_mux	0	static
+mux.c:293:6:enable_uart2_pin_mux	0	static
+mux.c:298:6:enable_uart3_pin_mux	0	static
+mux.c:303:6:enable_uart4_pin_mux	0	static
+mux.c:308:6:enable_uart5_pin_mux	0	static
+mux.c:313:6:enable_i2c0_pin_mux	0	static
+mux.c:318:6:enable_i2c2_pin_mux	0	static
+mux.c:359:6:enable_board_pin_mux	16	static

@@ -1,0 +1,16 @@
+volumes.c:165:33:find_fsid	24	static
+volumes.c:150:29:find_device	24	static
+volumes.c:270:5:btrfs_close_devices	16	static
+volumes.c:305:6:btrfs_close_all_devices	8	static
+volumes.c:316:5:btrfs_open_devices	16	static
+volumes.c:330:5:btrfs_scan_one_device	4152	static
+volumes.c:354:22:btrfs_find_device	32	static
+volumes.c:385:5:btrfs_check_chunk_valid	56	static
+volumes.c:515:12:read_one_chunk	88	static
+volumes.c:649:5:btrfs_read_sys_array	72	static
+volumes.c:740:5:btrfs_read_chunk_tree	136	static
+volumes.c:808:5:btrfs_stripe_length	32	static
+volumes.c:848:5:btrfs_num_copies	56	static
+volumes.c:886:5:btrfs_next_bg	40	static
+volumes.c:951:5:__btrfs_map_block	136	static
+volumes.c:1166:5:btrfs_map_block	32	static

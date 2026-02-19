@@ -1,0 +1,5 @@
+extension_board.c:146:12:do_extensionops	24	static
+extension_board.c:62:12:do_extension_list	24	static
+extension_board.c:17:12:extension_apply	32	static
+extension_board.c:83:12:do_extension_scan	16	static
+extension_board.c:103:12:do_extension_apply	16	static

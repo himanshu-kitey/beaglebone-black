@@ -1,0 +1,1 @@
+cmd_u-boot.img := ./tools/mkimage -f auto -A arm -T firmware -C none -O u-boot -a 0x80800000 -e 0x80800000 -p 0x0 -n "U-Boot 2022.04km-bbb-uboot for am335x board" -E  -b arch/arm/dts/km-bbb-am335x-boneblack.dtb  -d u-boot-nodtb.bin u-boot.img >/dev/null 

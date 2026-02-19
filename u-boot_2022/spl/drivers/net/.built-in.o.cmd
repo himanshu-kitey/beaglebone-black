@@ -1,0 +1,1 @@
+cmd_spl/drivers/net/built-in.o :=  rm -f spl/drivers/net/built-in.o; arm-linux-gnueabihf-ar cDPrsT spl/drivers/net/built-in.o spl/drivers/net/mscc_eswitch/built-in.o spl/drivers/net/phy/built-in.o spl/drivers/net/qe/built-in.o spl/drivers/net/ti/built-in.o

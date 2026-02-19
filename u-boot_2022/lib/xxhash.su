@@ -1,0 +1,10 @@
+xxhash.c:49:6:xxh32_copy_state	0	static
+xxhash.c:55:6:xxh64_copy_state	0	static
+xxhash.c:72:10:xxh32	28	static
+xxhash.c:142:10:xxh64	112	static
+xxhash.c:212:6:xxh32_reset	64	static
+xxhash.c:226:6:xxh64_reset	96	static
+xxhash.c:240:5:xxh32_update	32	static
+xxhash.c:309:10:xxh32_digest	20	static
+xxhash.c:347:5:xxh64_update	72	static
+xxhash.c:414:10:xxh64_digest	72	static

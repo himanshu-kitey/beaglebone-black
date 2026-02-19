@@ -1,0 +1,7 @@
+inode.c:532:12:lookup_data_extent	96	static
+inode.c:22:5:btrfs_readlink	128	static
+inode.c:244:5:btrfs_lookup_path	224	static
+inode.c:361:5:btrfs_read_extent_inline	40	static
+inode.c:420:5:btrfs_read_extent_reg	96	static
+inode.c:623:12:read_and_truncate_page	48	static
+inode.c:661:5:btrfs_file_read	192	static

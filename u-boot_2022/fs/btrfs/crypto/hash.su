@@ -1,0 +1,6 @@
+hash.c:12:6:btrfs_hash_init	8	static
+hash.c:22:5:hash_sha256	120	static
+hash.c:33:5:hash_xxhash	8	static
+hash.c:45:5:hash_blake2	256	static
+hash.c:56:5:hash_crc32c	8	static
+hash.c:66:5:crc32c	0	static

@@ -1,0 +1,8 @@
+board.c:1056:13:request_and_set_gpio	16	static
+board.c:82:6:do_board_detect	8	static
+board.c:557:6:do_cape_detect	240	static
+board.c:1104:5:ft_board_setup	72	static
+board.c:1177:6:rtc32k_enable	8	static
+board.c:1205:5:board_init	24	static
+board.c:1329:5:board_late_init	32	static
+board.c:1516:5:board_fit_config_name_match	8	static

@@ -1,0 +1,3 @@
+rbtree-utils.c:22:5:rb_insert	24	static
+rbtree-utils.c:46:17:rb_search	24	static
+rbtree-utils.c:75:6:rb_free_nodes	16	static

@@ -1,0 +1,1 @@
+cmd_spl/board/ti/common/built-in.o :=  rm -f spl/board/ti/common/built-in.o; arm-linux-gnueabihf-ar cDPrsT spl/board/ti/common/built-in.o spl/board/ti/common/board_detect.o spl/board/ti/common/cape_detect.o

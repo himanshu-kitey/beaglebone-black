@@ -1,0 +1,11 @@
+mem.h:78:17:ZSTD_readLE32	0	static
+bitstream.h:306:32:BIT_reloadDStream	16	static
+fse.h:474:18:FSE_decodeSymbol	20	static
+fse.h:487:18:FSE_decodeSymbolFast	20	static
+bitstream.h:209:20:BIT_initDStream	16	static
+fse.h:451:18:FSE_initDState	16	static
+fse_decompress.c:65:8:FSE_buildDTable_wksp	48	static
+fse_decompress.c:140:8:FSE_buildDTable_rle	0	static
+fse_decompress.c:157:8:FSE_buildDTable_raw	8	static
+fse_decompress.c:252:8:FSE_decompress_usingDTable	56	static
+fse_decompress.c:264:8:FSE_decompress_wksp	56	static

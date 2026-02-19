@@ -1,0 +1,16 @@
+nvedit.c:685:12:do_env_delete	24	static
+nvedit.c:601:12:do_env_save	8	static
+nvedit.c:1216:12:do_env	24	static
+nvedit.c:94:12:env_print	56	static
+nvedit.c:125:12:do_env_print	24	static
+nvedit.c:899:12:do_env_import	72	static
+nvedit.c:647:12:do_env_default	16	static
+nvedit.c:1141:12:do_env_exists	48	static
+nvedit.c:227:12:_do_env_set.isra.1	72	static
+nvedit.c:322:12:do_env_set	0	static
+nvedit.c:335:5:do_env_ask	1080	static
+nvedit.c:564:12:do_env_edit.part.2	1056	static
+nvedit.c:564:12:do_env_edit	0	static
+nvedit.c:83:5:env_get_id	0	static
+nvedit.c:307:5:env_set	24	static
+nvedit.c:766:12:do_env_export	96	static

@@ -1,0 +1,2 @@
+cape_detect.c:14:13:sanitize_field	0	static
+cape_detect.c:24:5:extension_board_scan	152	static

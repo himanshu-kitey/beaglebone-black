@@ -1,0 +1,2 @@
+subvolume.c:78:12:list_one_subvol	272	static
+subvolume.c:224:6:btrfs_list_subvols	160	static

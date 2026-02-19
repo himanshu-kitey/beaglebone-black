@@ -1,0 +1,6 @@
+mem.h:78:17:ZSTD_readLE32	0	static
+entropy_common.c:19:10:FSE_versionNumber	0	static
+entropy_common.c:22:10:FSE_isError	0	static
+entropy_common.c:24:10:HUF_isError	0	static
+entropy_common.c:29:8:FSE_readNCount	56	static
+entropy_common.c:137:8:HUF_readStats_wksp	48	static

@@ -1,0 +1,8 @@
+eeprom.c:203:12:parse_numeric_param	16	static
+eeprom.c:222:12:parse_i2c_bus_addr	16	static
+eeprom.c:144:12:eeprom_rw	48	static
+eeprom.c:41:12:eeprom_write_enable	0	static
+eeprom.c:46:6:eeprom_init	0	static
+eeprom.c:175:5:eeprom_read	16	static
+eeprom.c:185:5:eeprom_write	32	static
+eeprom.c:341:5:do_eeprom	40	static

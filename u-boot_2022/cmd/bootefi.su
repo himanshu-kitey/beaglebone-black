@@ -1,0 +1,6 @@
+bootefi.c:40:13:efi_clear_bootdev	16	static
+bootefi.c:347:21:do_bootefi_exec	24	static
+bootefi.c:62:6:efi_set_bootdev	48	static
+bootefi.c:260:14:efi_install_fdt	440	static
+bootefi.c:470:14:efi_run_image	48	static
+bootefi.c:640:12:do_bootefi	24	static
